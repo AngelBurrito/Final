@@ -12,9 +12,9 @@ I want to make a game simliar to the chrome dinosaur game in terms of playstyle,
 - Each of these folders cantain sprites used in the game, such as the character oatmeal, who is seen running, Butterfly who serves as the flying obstacle, Other which contains the background elements and Tree which contains the different sized Trees obstacle sprites.
 
 ## Design Considerations
-- I like the two different running positions the character can take based on wether or not you are holding the down button. I do wish i made it so that all 4 limbs move as only the hind two legs move when in the down pose.
+- I like the two different running positions the character can take based on whether or not you are holding the down button. I do wish i made it so that all 4 limbs move as only the hind two legs move when in the down pose.
 - Despite the design being based on the dinosaur game, i'd like to add at least one feature that could help differentiate it more. Such as a powerup or change in the environment
-- I owuld like to add more signifance to the Butterflies, given how important of a role the Butterfly plays in the cartoon this is based on. I could potentially do this by making them a collectible instead of an obsticle.
+- I would like to add more signifance to the Butterflies, given how important of a role the Butterfly plays in the cartoon this is based on. I could potentially do this by making them a collectible instead of an obsticle.
 
 ## Future Areas of Improvement
 -I would like to improve on coming up with my own gameplay ideas as because i don't play many video games, i didnt have many ideas which is why i based it on a game i was familiar with.
