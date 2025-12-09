@@ -1,6 +1,6 @@
 # Oatmeal The Game
 
-## URl to the video
+## URL to the video
 https://youtu.be/ZN7opIJzJJ0
 
 ## URL to the girhub repository 
