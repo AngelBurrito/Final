@@ -24,6 +24,7 @@ I want to make a game simliar to the chrome dinosaur game in terms of playstyle,
 
 ## Future Areas of Improvement
 -I would like to improve on coming up with my own gameplay ideas as because i don't play many video games, i didnt have many ideas which is why i based it on a game i was familiar with.
+-I wish i had thought to commid to show my progress. I did a lot of the code in a short span of time so it slipped my mind. I need to get into the mindset of commiting changes.
 
 ## Design
 As mentioned before the gameplay is designed after the Chrome Dinosaur game, however the art and theme is based on a 2d animated cartoon i have made in the past featued in my youtube channel called Oatmeal and Raisin. I'm glad i designed it after this as it helps relate programming to the genre of animation, given how in the animation world oftentimes popular films and shows get game adaptations. For example Spongeob. 
