@@ -1,5 +1,11 @@
 # Oatmeal The Game
 
+## URl to the video
+https://youtu.be/ZN7opIJzJJ0
+
+## URL to the girhub repository 
+https://github.com/AngelBurrito/Final
+
 ## Description
 I want to make a game simliar to the chrome dinosaur game in terms of playstyle, but with more care put into it. This is relevant to media and digital art as the Chrome Dinosaur Game is very bland inn design but it's simple with its graphis so i aim to try and dissect that in a way that feels unique to me to better understand what makes the game so appealing despite being so simple. 
 
